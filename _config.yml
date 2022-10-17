@@ -3,3 +3,7 @@ title: Michael Wieck-Sosa
 #plugins:
 #- jekyll-remote-theme
 theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
