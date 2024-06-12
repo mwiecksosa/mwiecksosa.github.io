@@ -1,7 +1,1 @@
-PhD Student
-
-[Department of Statistics](https://www.cmu.edu/dietrich/statistics-datascience/index.html)
-
-[Carnegie Mellon University](https://www.cmu.edu/)
-
-mwiecksosa@cmu.edu
+I am a Statistics PhD Student in the [Department of Statistics](https://www.stat.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am lucky to be advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). Here is my CV. My email address is mwiecksosa AT cmu DOT edu.
