@@ -1,5 +1,7 @@
-
-![mwiecksosa AT cmu DOT edu]("/assets/images/WieckSosaMichael_headshot.JPG")
+<div style="text-align: center;">
+  <img src="/assets/images/WieckSosaMichael_headshot.JPG" alt="Headshot" style="width: 1500px; margin-bottom: 10px;">
+  <p>mwiecksosa AT cmu DOT edu</p>
+</div>
 
 I am a third-year PhD Student in the [Department of Statistics](https://www.stat.cmu.edu) at [CMU](https://www.cmu.edu). I am lucky to be advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). Here is my [CV](https://mwiecksosa.github.io/cv.pdf).  
 
