@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <img src="/assets/images/WieckSosaMichael_headshot.JPG" alt="Headshot" style="width: 150px; margin-bottom: 5px;">
-  <p style="font-size: 12px;">mwiecksosa AT cmu DOT edu</p>
+  <p style="font-size: 10px;">mwiecksosa AT cmu DOT edu</p>
 </div>
 
 
