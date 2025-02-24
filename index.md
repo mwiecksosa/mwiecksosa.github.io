@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="/assets/images/WieckSosaMichael_headshot.JPG" alt="Headshot" style="width: 1500px; margin-bottom: 10px;">
+  <img src="/assets/images/WieckSosaMichael_headshot.JPG" alt="Headshot" style="width: 150px; margin-bottom: 10px;">
   <p>mwiecksosa AT cmu DOT edu</p>
 </div>
 
