@@ -1,6 +1,15 @@
-![image](/assets/images/WieckSosaMichael_headshot.JPG){: width="150"; style="float: left"} 
+<div style="display: flex; align-items: flex-start;">
+  <img src="/assets/images/WieckSosaMichael_headshot.JPG" alt="Headshot" style="width: 150px; margin-right: 20px;">
+  <div>
+    <p>Carnegie Mellon University</p>
+    <p>Department of Statistics</p>
+    <p>mwiecksosa AT cmu DOT edu</p>
+  </div>
+</div>
 
-I am a third-year PhD Student in the [Department of Statistics](https://www.stat.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). I am lucky to be advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). Here is my [CV](https://mwiecksosa.github.io/cv.pdf). You can reach me at mwiecksosa AT cmu DOT edu. 
+
+
+I am a third-year PhD Student in the [Department of Statistics](https://www.stat.cmu.edu) at [CMU](https://www.cmu.edu). I am lucky to be advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). Here is my [CV](https://mwiecksosa.github.io/cv.pdf).  
 
 My main research interests lie in nonstationary time series analysis. My work is largely motivated by the challenge of understanding time-varying nonlinear dynamics in fields like epidemiology, economics, and the earth sciences, where we only observe a single realization of a high-dimensional stochastic process. More broadly, I am interested in nonparametric estimation, high-dimensional statistics, conditional independence testing, causal discovery, and observational causal inference.
 
