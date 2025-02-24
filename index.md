@@ -1,8 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <img src="/assets/images/WieckSosaMichael_headshot.JPG" alt="Headshot" style="width: 150px; margin-bottom: 20px;">
-  <p style="font-size: 10px;"></p>
 </div>
-
 
 I am a third-year PhD Student in the [Department of Statistics & Data Science](https://www.stat.cmu.edu) at [CMU](https://www.cmu.edu). I am lucky to be advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). 
 
