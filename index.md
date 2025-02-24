@@ -4,7 +4,7 @@
 </div>
 
 
-I am a third-year PhD Student in the [Department of Statistics](https://www.stat.cmu.edu) at [CMU](https://www.cmu.edu). I am lucky to be advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). Here is my [CV](https://mwiecksosa.github.io/cv.pdf).  
+I am a third-year PhD Student in the [Department of Statistics & Data Science](https://www.stat.cmu.edu) at [CMU](https://www.cmu.edu). I am lucky to be advised by [Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/). Here is my [CV](https://mwiecksosa.github.io/cv.pdf).  
 
 My main research interests lie in nonstationary time series analysis. My work is largely motivated by the challenge of understanding time-varying nonlinear dynamics in fields like epidemiology, economics, and the earth sciences, where we only observe a single realization of a high-dimensional stochastic process. More broadly, I am interested in nonparametric estimation, high-dimensional statistics, conditional independence testing, causal discovery, and observational causal inference.
 
