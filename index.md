@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; align-items: flex-start;">
   <img src="/assets/images/WieckSosaMichael_headshot.JPG" alt="Headshot" style="width: 150px; margin-bottom: 10px;">
   <p>mwiecksosa AT cmu DOT edu</p>
 </div>
