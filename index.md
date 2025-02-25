@@ -6,7 +6,7 @@ I am a third-year PhD Student in the [Department of Statistics & Data Science](h
 
 Here is my [CV](https://mwiecksosa.github.io/cv.pdf). You can reach me at mwiecksosa AT cmu DOT edu.
 
-My main research interests lie in nonstationary time series analysis. My work is largely motivated by the challenge of understanding nonlinear dynamics in fields like epidemiology, economics, and the earth sciences, where we only observe a single realization of a high-dimensional stochastic process. More broadly, I am interested in nonparametric estimation, high-dimensional statistics, conditional independence testing, causal discovery, and observational causal inference.
+My main research interests lie in nonstationary time series analysis. My work is largely motivated by the challenge of understanding nonlinear dynamics in fields like epidemiology, economics, and the earth sciences, where we only observe a single realization of a high-dimensional stochastic process. I am especially interested in the implications for optimal forecasting. More broadly, I am interested in nonparametric estimation, high-dimensional statistics, conditional independence testing, causal discovery, and observational causal inference.
 
 **Working Papers**
 1. Conditional Independence Testing in the Presence of Temporal Correlation and Nonstationarity (with Michel Haddad and Aaditya Ramdas). [Link](https://mwiecksosa.github.io/dGCM_CI_NSTS.pdf).
