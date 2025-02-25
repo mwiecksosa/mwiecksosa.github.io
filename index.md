@@ -6,7 +6,7 @@ I am a third-year PhD Student in the [Department of Statistics & Data Science](h
 
 Here is my [CV](https://mwiecksosa.github.io/cv.pdf). You can reach me at mwiecksosa AT cmu DOT edu.
 
-My research focuses on learning the dynamics of high-dimensional nonstationary nonlinear time series. I am especially interested in the connections between causality, optimal forecasting, and multi-period optimization. I am inspired by many topics in statistics and machine learning, notably nonparametric estimation, high-dimensional statistics, deep neural networks, conditional independence testing, causal discovery, and observational causal inference.
+My research focuses on learning the dynamics of high-dimensional nonstationary nonlinear time series. I am especially interested in the connections between causality, optimal forecasting, model predictive control, and multi-period optimization. I am inspired by many topics in statistics and machine learning, notably nonparametric estimation, high-dimensional statistics, deep neural networks, conditional independence testing, causal discovery, and observational causal inference.
 
 **Working Papers**
 1. Conditional Independence Testing in the Presence of Temporal Correlation and Nonstationarity (with Michel Haddad and Aaditya Ramdas). [Link](https://mwiecksosa.github.io/dGCM_CI_NSTS.pdf).
