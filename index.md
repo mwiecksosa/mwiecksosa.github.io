@@ -9,7 +9,7 @@ Here is my [CV](https://mwiecksosa.github.io/cv.pdf). You can reach me at mwieck
 My research focuses on learning nonlinear dynamics from high-dimensional nonstationary time series data. I am especially interested in the connections between causality, optimal forecasting, and data-driven model predictive control. I am inspired by many topics in statistics and machine learning, notably nonparametric estimation, high-dimensional statistics, sequential analysis, deep neural networks, conditional independence testing, causal discovery, and observational causal inference.
 
 **Working Papers**
-1. Conditional Independence Testing in the Presence of Temporal Correlation and Nonstationarity (with Michel Haddad and Aaditya Ramdas). [Link](https://mwiecksosa.github.io/dGCM_CI_NSTS.pdf).
+1. Conditional Independence Testing in the Presence of Temporal Correlation and Nonstationarity (with Michel Haddad and Aaditya Ramdas). [Link](https://mwiecksosa.github.io/papers/dGCM_CI_NSTS.pdf).
 - Summary: We introduce a general framework for conditional independence testing that is robust to both nonstationarity and temporal dependence. The key technical ingredients are time-varying regression estimation, time-varying covariance estimation, and a distribution-uniform strong Gaussian approximation for nonstationary time series.
 2. Identifying Auxiliary Indicators in Unstable Forecasting Environments (with Michel Haddad and Aaditya Ramdas). *In progress, preliminary draft available upon request.*
 - Summary: We develop a method for detecting new forecasting signals that can be used with nonstationary nonlinear time series.
