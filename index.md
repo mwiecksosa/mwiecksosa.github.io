@@ -6,7 +6,7 @@ I am a third-year PhD Student in the [Department of Statistics & Data Science](h
 
 Here is my [CV](https://mwiecksosa.github.io/cv.pdf). You can reach me at mwiecksosa AT cmu DOT edu.
 
-My research focuses on learning nonlinear dynamics from nonstationary time series data. I am especially interested in causation, prediction, and control theory. I am inspired by many topics in statistics and machine learning, notably nonparametric estimation, high-dimensional statistics, and causal inference. 
+My research focuses on learning nonlinear dynamics from nonstationary time series data. I am especially interested in causality, prediction, and control theory. I am inspired by many topics in statistics and machine learning, notably nonparametric estimation, high-dimensional statistics, and causal inference. 
 
 **Working Papers**
 1. Conditional Independence Testing in the Presence of Temporal Correlation and Nonstationarity (with M. Haddad and A. Ramdas). [Link](https://mwiecksosa.github.io/papers/dGCM_CI_NSTS.pdf).
