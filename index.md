@@ -10,7 +10,8 @@ I work on nonstationary time series analysis. I am inspired by many topics in st
 
 **Working Papers**
 1. Conditional independence testing with a single realization of a nonstationary nonlinear process (with M. Haddad and A. Ramdas). 
-- Summary: We introduce a general framework for conditional independence testing that is robust to both nonstationarity and temporal dependence. 
+- Summary: We introduce a general framework for conditional independence testing that is robust to both nonstationarity and temporal dependence.
+- Links: [Preliminary draft](https://mwiecksosa.github.io/papers/dGCM_CI_NSTS.pdf).
 2. Identifying relevant forecasting signals in unstable environments (with M. Haddad and A. Ramdas). 
 - Summary: We develop a method for detecting new forecasting signals that can be used with nonstationary nonlinear time series.
 3. Simulation-based inference for models of complex temporal systems (with C. Shalizi). 
