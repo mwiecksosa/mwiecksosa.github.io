@@ -13,7 +13,7 @@ I work on nonstationary nonlinear time series analysis. I am inspired by many to
 - Summary: We introduce a general framework for conditional independence testing for nonstationary time series based on time-varying nonlinear regression and distribution-uniform strong Gaussian approximations.
 - Links: [Preliminary draft](https://mwiecksosa.github.io/papers/dGCM_CI_NSTS.pdf).
 2. Identifying relevant forecasting signals in unstable environments (with M. Haddad and A. Ramdas). 
-- Summary: We develop a nonstationarity-robust method for detecting auxiliary indicators for forecasting, which is based on time-varying nonlinear regression.
+- Summary: We develop a nonstationarity-robust method for detecting new forecasting signals based on time-varying nonlinear regression.
 3. Simulation-based inference for models of complex temporal systems (with C. Shalizi). 
 - Summary: We propose a method for inferring the parameters of analytically intractable models of complex temporal systems, drawing from nonstationary nonlinear time series theory.
 4. Deep learning for nonstationary nonlinear time series (with W. B. Wu). 
