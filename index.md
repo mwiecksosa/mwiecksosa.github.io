@@ -8,7 +8,7 @@ Here is my [CV](https://mwiecksosa.github.io/cv.pdf). You can reach me at mwieck
 
 My research interests center on statistical and machine learning methods for dependent data. I am especially interested in:
 - **Time series** (high-dimensional, nonstationary, nonlinear, physical dependence, mixingales)
-- **Causality** (structural causal models, invariant prediction, causal discovery, and conditional independence testing)
+- **Causality** (structural causal models, invariant prediction, causal discovery, conditional independence testing)
 - **Machine learning** (deep neural networks, transformers, foundation models, large language models)
 
 **Research**
