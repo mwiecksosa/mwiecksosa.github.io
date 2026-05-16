@@ -14,13 +14,14 @@ My research interests center on statistical and machine learning methods for dep
 **Research**
 
 *Under Revision*
-1. Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [arXiv](https://arxiv.org/pdf/2504.21647).
+- Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [arXiv](https://arxiv.org/pdf/2504.21647). 
 
-*Working Papers*
-2. Simulation-based estimation of dynamic models by matching random features (with Cosma Shalizi). 
+*Working Papers (Available Upon Request)*
+- Simulation-based estimation of dynamic models by matching random features (with Cosma Shalizi).
+
 
 *Works in Progress*
-3. Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi). 
-4. Invariant prediction for nonstationary sequences (with Aaditya Ramdas).
-5. Foundation models for predicting nonstationary sequences (with Aaditya Ramdas). 
-6. Signature methods for large language models (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi). 
+- Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi). 
+- Invariant prediction for nonstationary sequences (with Aaditya Ramdas).
+- Foundation models for predicting nonstationary sequences (with Aaditya Ramdas). 
+- Signature methods for large language models (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi). 
