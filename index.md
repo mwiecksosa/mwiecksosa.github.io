@@ -17,7 +17,7 @@ My research interests center on statistical and machine learning methods for dep
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [arXiv](https://arxiv.org/pdf/2504.21647). 
 
 *Working Papers (Available Upon Request)*
-- Simulation-based estimation of dynamic models by matching random features (with Cosma Shalizi).
+- Estimating dynamic models by matching random features (with Cosma Shalizi).
 
 
 *Works in Progress*
