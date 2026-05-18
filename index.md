@@ -21,7 +21,7 @@ My research interests center on statistical and machine learning methods for dep
 
 
 *Works in Progress*
-- Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi). 
-- Invariant prediction for nonstationary sequences (with Aaditya Ramdas).
-- Foundation models for predicting nonstationary sequences (with Aaditya Ramdas). 
-- Signature methods for large language models (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi). 
+- Invariant prediction for time-varying sequences (with Aaditya Ramdas).
+- Foundation models, invariant prediction, and the role of statisticians (with Aaditya Ramdas). 
+- Signature methods for large language models (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi).
+- Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
