@@ -11,7 +11,7 @@ My research interests:
 - **Causality** (structural causal models, invariant prediction, causal discovery, conditional independence testing)
 - **Machine learning** (neural networks, transformers, foundation models, large language models)
 
-I have a few projects that involve pre-training transformers with synthetic time series data from neural structural causal models. If you're a CMU student and interested, send me an email.
+I have a few projects that involve pre-training transformers on synthetic time series data generated from neural structural causal models. If you're a CMU student and interested, send me an email.
 
 **Research**
 
