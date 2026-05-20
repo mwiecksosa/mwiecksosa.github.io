@@ -22,6 +22,7 @@ My research interests center on statistical and machine learning methods for dep
 
 *Works in Progress*
 - Invariant prediction for time-varying sequences (with Aaditya Ramdas).
-- Foundation models for time series and invariant prediction (with Aaditya Ramdas). 
+- Transformers meet invariant prediction (with Aaditya Ramdas). 
 - Signature methods for large language models (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi).
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
+- Dynamic variable importance for time series foundation models (with Tom Zhang and Chad Schafer).
