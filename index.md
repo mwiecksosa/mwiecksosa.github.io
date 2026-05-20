@@ -6,10 +6,12 @@ I am a fourth-year PhD Student in the [Department of Statistics & Data Science](
 
 Here is my [CV](https://mwiecksosa.github.io/cv.pdf). You can reach me at mwiecksosa AT cmu DOT edu.
 
-My research interests center on statistical and machine learning methods for dependent data. I am especially interested in:
+My research interests:
 - **Time series** (high-dimensional, nonstationary, nonlinear, physical dependence, mixingales)
 - **Causality** (structural causal models, invariant prediction, causal discovery, conditional independence testing)
 - **Machine learning** (neural networks, transformers, foundation models, large language models)
+
+I have a few projects that involve pre-training transformers with synthetic time series data from neural structural causal models. If you're a CMU student and interested, send me an email.
 
 **Research**
 
@@ -21,8 +23,8 @@ My research interests center on statistical and machine learning methods for dep
 
 
 *Works in Progress*
-- Invariant prediction for time-varying sequences (with Aaditya Ramdas).
 - Transformers meet invariant prediction (with Aaditya Ramdas). 
+- Invariant prediction for time-varying sequences (with Aaditya Ramdas).
 - Signature methods for large language models (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi).
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
 - Dynamic variable importance for time series foundation models (with Tom Zhang and Chad Schafer).
