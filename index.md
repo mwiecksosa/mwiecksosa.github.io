@@ -35,7 +35,7 @@ I have a few projects that involve pre-training transformers on synthetic time s
 If you're a CMU student (MS or advanced BS) and interested, send me an email.
 
 
-**Recent News**
+**News**
 - June 2026: I will be giving a 20-minute talk at the International Workshop in Sequential Methodologies (IWSM) at American University.
 - April 2026: I was awarded the DeGroot-Goel Fellowship by the Statistics faculty.
 - April 2026: I successfully proposed my thesis, which is about prediction with transformers, estimation of time series models, and inference for dependence relationships.
