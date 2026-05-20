@@ -13,10 +13,11 @@ My research interests are at the intersection of:
 
 
 **Research**
-I have a few projects that involve pre-training transformers on synthetic time series data generated from neural structural causal models. If you're a CMU student (MS or advanced BS) and interested, send me an email.
+
 
 *Under Revision*
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [arXiv](https://arxiv.org/pdf/2504.21647). 
+
 
 *Working Papers (Available Upon Request)*
 - Estimating dynamic models by matching random features (with Cosma Shalizi).
@@ -28,6 +29,9 @@ I have a few projects that involve pre-training transformers on synthetic time s
 - Signature methods for large language models (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi).
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
 - Dynamic variable importance for time series foundation models (with Tom Zhang and Chad Schafer).
+
+I have a few projects that involve pre-training transformers on synthetic time series data generated from neural structural causal models. If you're a CMU student (MS or advanced BS) and interested, send me an email.
+
 
 **News**
 - June 2026: I will be giving a 20-minute talk at the International Workshop in Sequential Methodologies (IWSM) at American University.
