@@ -30,9 +30,6 @@ My research interests are at the intersection of:
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
 - Dynamic variable importance for time series foundation models (with Tom Zhang and Chad Schafer).
 
-I have a few projects that involve pre-training transformers on synthetic time series data generated from neural structural causal models. 
-
-If you're a CMU student (MS or advanced BS) and interested, send me an email.
 
 
 **News**
