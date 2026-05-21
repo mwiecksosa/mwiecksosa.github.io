@@ -34,5 +34,5 @@ My research interests are at the intersection of:
 
 **News**
 - May 2026: I'll be giving a 20-minute talk at the International Workshop in Sequential Methodologies at American University (June 1-4).
-- April 2026: I was awarded the DeGroot-Goel Fellowship for 2026 by the Statistics faculty.
+- April 2026: I was awarded the DeGroot-Goel Fellowship for 2026 by the CMU Statistics faculty.
 - April 2026: I successfully proposed my thesis. The proposed work focuses on transformers and prediction for nonstationary time series.
