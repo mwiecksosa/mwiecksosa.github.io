@@ -26,7 +26,7 @@ My research interests are at the intersection of:
 
 *Works in Progress*
 - Transformers meet invariant prediction (with Aaditya Ramdas). 
-- Invariant prediction for nonstationary sequences beyond the linear-Gaussian setting (with Aaditya Ramdas).
+- Invariant prediction for nonstationary sequences beyond the linear-Gaussian case (with Aaditya Ramdas).
 - Signature methods for large language models (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi).
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
 - Dynamic variable importance for time series foundation models (with Tom Zhang and Chad Schafer).
