@@ -20,12 +20,12 @@ My research interests are at the intersection of:
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [arXiv](https://arxiv.org/pdf/2504.21647). 
 
 
-*Working Papers (Available Upon Request)*
+*Submitted (Available Upon Request)*
 - Estimating dynamic models by matching random features (with Cosma Shalizi).
 
 
 *Works in Progress*
-- Transformers meet invariant causal prediction (with Aaditya Ramdas). 
+- Invariance-based post-training of foundation models for time series prediction (with Aaditya Ramdas). 
 - Invariant causal prediction for nonstationary sequences beyond the linear-Gaussian case (with Aaditya Ramdas).
 - Signature methods for large language models (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi).
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
