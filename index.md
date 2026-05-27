@@ -20,8 +20,8 @@ My research interests are at the intersection of:
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [arXiv](https://arxiv.org/pdf/2504.21647). 
 
 
-*Submitted (Available Upon Request)*
-- Estimating dynamic models by matching random features (with Cosma Shalizi).
+*Submitted*
+- Estimating dynamic models by matching random features (with Cosma Shalizi). Available upon request.
 
 
 *Works in Progress*
