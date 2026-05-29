@@ -10,7 +10,7 @@ My research interests are at the intersection of:
 - **Time series** (high-dimensional, nonstationary, nonlinear, physical dependence, mixingales)
 - **Causality** (structural causal models, invariant causal prediction, causal discovery, conditional independence testing)
 - **Machine learning** (neural networks, transformers, foundation models, large language models)
-- **Random feature methods** (estimation, confidence sets, goodness-of-fit testing, change detection, invariance)
+- **Likelihood-free methods** (estimation, confidence sets, goodness-of-fit testing, change detection, random features)
 
 
 **Research**
