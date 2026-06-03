@@ -17,7 +17,7 @@ My research interests are at the intersection of:
 
 
 *Under Revision*
-- Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [arXiv](https://arxiv.org/pdf/2504.21647). 
+- Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [arXiv](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf)
 
 
 *Submitted*
