@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
 
 *Works in Progress*
-- Learning conditionally invariant representations with transformers: Applications to text-numeric time series (with Aaditya Ramdas). 
+- Learning conditionally invariant representations for time series with transformers (with Aaditya Ramdas). 
 - Invariant causal prediction for nonlinear time series (with Aaditya Ramdas).
 - The signature of a large language model (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi).
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
