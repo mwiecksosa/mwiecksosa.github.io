@@ -27,7 +27,6 @@ My research interests are at the intersection of:
 *Works in Progress*
 - Invariance-based reward modeling for temporal reasoning with large language models (with Aaditya Ramdas). 
 - Invariant causal prediction for nonlinear time series (with Aaditya Ramdas).
-- The signature of a large language model (with Leif Weatherby, Tyler Shoemaker, and Cosma Shalizi).
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
 - Dynamic variable importance for time series foundation models (with Tom Zhang and Chad Schafer).
 
