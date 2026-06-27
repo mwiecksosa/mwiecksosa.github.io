@@ -7,7 +7,7 @@ I am a fourth-year PhD Student in the [Department of Statistics & Data Science](
 Here is my [resume](https://mwiecksosa.github.io/resume.pdf). You can reach me at mwiecksosa AT cmu DOT edu.
 
 My research interests are at the intersection of:
-- **Dependent data** (high-dimensional time series, spatiotemporal data, time-varying networks, nonstationary, nonlinear, physical dependence)
+- **Dependent data** (high-dimensional time series, spatiotemporal data, time-varying networks, nonstationary, physical dependence)
 - **Causality** (causal discovery, invariant causal prediction, causal representation learning, conditional independence testing)
 - **Machine learning** (neural networks, transformers, foundation models, large language models)
 - **Likelihood-free methods** (estimation, confidence sets, goodness-of-fit testing, random feature methods, change-point detection)
