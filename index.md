@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
 
 *Works in Progress*
-- Mitigating temporal reward hacking: Invariance-based reward modeling for time series reasoning with LLMs (with Aaditya Ramdas). 
+- Temporal reward hacking in LLM-based text-numeric time series prediction: why and how to be invariant (with Aaditya Ramdas). 
 - Invariant causal prediction for nonlinear time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
 - For dynamic models with p parameters, 2p+1 random features are enough for identification (with Cosma Shalizi).
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
