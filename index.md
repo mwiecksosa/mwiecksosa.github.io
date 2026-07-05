@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
 
 *Works in Progress*
-- Conditionally invariant representation learning for multimodal time series with transformers: Applications to financial text using LLMs (with Aaditya Ramdas). 
+- Conditionally invariant representation learning for multimodal time series with transformers (with Aaditya Ramdas). 
 - Invariant causal prediction for nonlinear time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
 - For dynamic models with p parameters, 2p+1 random features are enough for identification (with Cosma Shalizi).
 - Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
