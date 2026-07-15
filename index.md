@@ -27,9 +27,9 @@ My research interests are at the intersection of:
 *Works in Progress*
 - Deep conditional independence testing for multimodal time series with transformers: Applications to Granger causality (with Aaditya Ramdas). 
 - Invariant causal prediction for nonlinear time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
-- For dynamic models with p parameters, 2p+1 random features are enough for identification (with Cosma Shalizi).
-- Goodness-of-fit testing and confidence sets through random features (with Cosma Shalizi).
-- Dynamic variable importance for time series forecasting with foundation models (with Tom Zhang and Chad Schafer).
+- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi).
+- Simulation-based inference through random features (with Cosma Shalizi).
+- Dynamic variable importance for time series forecasting using foundation models, with comparisons to linear models (with Tom Zhang and Chad Schafer).
 
 
 
