@@ -29,7 +29,7 @@ My research interests are at the intersection of:
 - Invariant causal prediction for nonlinear time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
 - Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
-- Variable importance for time series foundation models, with comparisons to linear models (with Tom Zhang and Chad Schafer).
+- Dynamic variable importance for time series foundation models, with comparisons to linear models: Applications to volatility forecasting (with Tom Zhang and Chad Schafer).
 
 
 
