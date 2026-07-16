@@ -27,7 +27,7 @@ My research interests are at the intersection of:
 
 *Works in Progress*
 - Deep conditional independence testing for multimodal nonstationary time series with transformers (with Aaditya Ramdas). 
-- Invariant causal prediction for nonstationary nonlinear time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
+- Invariant causal prediction for nonstationary time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
 - Simulation-based inference through random features (with Cosma Shalizi).
 - Probing lagged covariate use in foundation models for time series forecasting (with Tom Zhang and Chad Schafer).
 
