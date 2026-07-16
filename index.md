@@ -21,13 +21,13 @@ My research interests are at the intersection of:
 
 
 *Submitted*
-- Estimating dynamic models by matching random features (with Cosma Shalizi). Available upon request.
+- Estimating dynamic models by matching random features (with Cosma Shalizi). Available upon request (manuscript to be posted on arXiv upon acceptance, in accordance with the journal's preference).
+- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Available upon request (manuscript to be posted on arXiv upon acceptance, in accordance with the journal's preference).
 
 
 *Works in Progress*
 - Deep conditional independence testing for multimodal time series with transformers: Applications to Granger causality (with Aaditya Ramdas). 
 - Invariant causal prediction for nonlinear time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
-- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
 - Probing lagged covariate use in foundation models for time series forecasting, with comparisons to linear models (with Tom Zhang and Chad Schafer).
 
