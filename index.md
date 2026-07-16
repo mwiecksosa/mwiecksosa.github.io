@@ -29,7 +29,7 @@ My research interests are at the intersection of:
 - Deep conditional independence testing for multimodal time series with transformers: Applications to Granger causality (with Aaditya Ramdas). 
 - Invariant causal prediction for nonlinear time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
 - Simulation-based inference through random features (with Cosma Shalizi).
-- Probing lagged covariate use in foundation models for time series forecasting, with comparisons to linear models (with Tom Zhang and Chad Schafer).
+- Probing lagged covariate use in foundation models for time series forecasting (with Tom Zhang and Chad Schafer).
 
 
 
