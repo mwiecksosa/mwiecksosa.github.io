@@ -22,7 +22,7 @@ My research interests are at the intersection of:
 - Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Manuscript to be posted on arXiv upon acceptance, in accordance with the journal's policies. [Preprint](https://github.com/mwiecksosa/random_features/blob/main/identification_random_features.pdf). [Code](https://github.com/mwiecksosa/random_features).
 
 
-*Works in Progress*
+*Works in progress*
 - Deep conditional independence testing for multimodal nonstationary time series with transformers: Applications to text-numeric data and large language models (with Aaditya Ramdas). 
 - Invariant causal prediction for nonstationary time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
 - Simulation-based inference through random features (with Cosma Shalizi).
