@@ -21,8 +21,8 @@ My research interests are at the intersection of:
 
 
 *Submitted*
-- Estimating dynamic models by matching random features (with Cosma Shalizi). Available upon request (manuscript to be posted on arXiv upon acceptance, in accordance with the journal's preference).
-- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Available upon request (manuscript to be posted on arXiv upon acceptance, in accordance with the journal's preference).
+- Estimating dynamic models by matching random features (with Cosma Shalizi). Available upon request (manuscript to be posted on arXiv upon acceptance, in accordance with the journal's preference). [Code](https://github.com/mwiecksosa/random_features).
+- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Available upon request (manuscript to be posted on arXiv upon acceptance, in accordance with the journal's preference). [Code](https://github.com/mwiecksosa/random_features).
 
 
 *Works in Progress*
