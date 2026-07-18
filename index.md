@@ -18,8 +18,8 @@ My research interests are at the intersection of:
 
 *Papers*
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [arXiv](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
-- Estimating dynamic models by matching random features (with Cosma Shalizi). Manuscript to be posted on arXiv upon publication, in accordance with the journal's policies. [Preprint](https://github.com/mwiecksosa/random_features/blob/main/estimation_random_features.pdf). [Code](https://github.com/mwiecksosa/random_features). 
-- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Manuscript to be posted on arXiv upon publication, in accordance with the journal's policies. [Preprint](https://github.com/mwiecksosa/random_features/blob/main/identification_random_features.pdf). [Code](https://github.com/mwiecksosa/random_features).
+- Estimating dynamic models by matching random features (with Cosma Shalizi). Manuscript to be posted on arXiv upon publication, in accordance with the journal's policies. [Preprint](https://github.com/mwiecksosa/random_features/blob/main/estimation_random_features.pdf). [Slides](random_features_slides.pdf). [Code](https://github.com/mwiecksosa/random_features). 
+- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Manuscript to be posted on arXiv upon publication, in accordance with the journal's policies. [Preprint](https://github.com/mwiecksosa/random_features/blob/main/identification_random_features.pdf). 
 
 
 *Works in progress*
