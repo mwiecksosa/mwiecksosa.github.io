@@ -27,9 +27,6 @@ My research interests are at the intersection of:
 - Deep conditional independence testing for multimodal nonstationary time series with transformers: Applications to text-numeric data and large language models (with Aaditya Ramdas). 
 - Invariant causal prediction for nonstationary time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
 - Simulation-based inference through random features (with Cosma Shalizi).
-- Probing lagged covariate use in foundation models for time series forecasting (with Tom Zhang and Chad Schafer).
-
-
 
 **News**
 - May 2026: I'll be giving a 20-minute talk at [IWSM 2026](https://dr-baron.github.io/IWSM-2026/IWSM_program.pdf).
