@@ -23,7 +23,7 @@ My research interests are at the intersection of:
 - Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Manuscript to be posted on arXiv upon publication, in accordance with the journal's policies. [Preprint](https://mwiecksosa.github.io/identification_random_features.pdf). 
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
-*Works in progress*
+*Current projects*
 - Deep conditional independence testing for multimodal nonstationary time series with transformers: Applications to text sequences and LLMs (with Aaditya Ramdas). 
 - Learning deep generative dynamic models in high dimensions via random embeddings (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
