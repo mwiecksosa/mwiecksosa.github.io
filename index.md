@@ -24,8 +24,8 @@ My research interests are at the intersection of:
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
 *Works in progress*
-- Deep conditional independence testing for multimodal nonstationary time series with transformers: Applications to text-numeric data and large language models (with Aaditya Ramdas). 
-- Invariant causal prediction for nonstationary time series and the higher-order generalized covariance measure (with Aaditya Ramdas).
+- Deep conditional independence testing for multimodal nonstationary time series with transformers: Applications to text sequences and LLMs (with Aaditya Ramdas). 
+- Fast conditional independence testing for nonstationary time series with distributional predictors (with Aaditya Ramdas).
 - Simulation-based inference through random features (with Cosma Shalizi).
 
 **News**
