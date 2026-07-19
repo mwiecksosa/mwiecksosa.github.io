@@ -29,7 +29,7 @@ My research interests are at the intersection of:
 - Simulation-based inference through random features (with Cosma Shalizi).
 - How foundation models learn temporal dependencies in practice: A study of Chronos-2 and TabPFN-3 (with Tom Zhang* and Chad Schafer).
 
-* Denotes students advised.
+\* Denotes students advised.
 
 **News**
 - May 2026: I'll be giving a 20-minute talk at [IWSM 2026](https://dr-baron.github.io/IWSM-2026/IWSM_program.pdf).
