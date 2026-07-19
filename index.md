@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
 *Works in progress*
 - Deep conditional independence testing for multimodal nonstationary time series with transformers: Applications to text sequences and LLMs (with Aaditya Ramdas). 
-- Fast conditional independence testing for nonstationary time series with distributional predictors (with Aaditya Ramdas).
+- Learning predictive states of large-scale time series with random features (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
 
 **News**
