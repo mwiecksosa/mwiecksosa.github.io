@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
 *Works in progress*
 - Deep conditional independence testing for multimodal nonstationary time series with transformers: Applications to text sequences and LLMs (with Aaditya Ramdas). 
-- Learning deep generative dynamic models (with Cosma Shalizi).
+- Learning deep generative dynamic models in high dimensions via random embeddings (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
 
 **News**
