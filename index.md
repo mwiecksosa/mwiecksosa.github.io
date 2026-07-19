@@ -2,7 +2,7 @@
   <img src="/assets/images/WieckSosaMichael_headshot.JPG" alt="Headshot" style="width: 150px; margin-bottom: 20px;">
 </div>
 
-I am a fourth-year PhD Student in the [Department of Statistics & Data Science](https://www.stat.cmu.edu) at [CMU](https://www.cmu.edu). 
+I am a fourth-year PhD Student in the [Department of Statistics & Data Science](https://www.stat.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu). 
 
 I am very lucky to be advised by [Aaditya Ramdas](https://web.stanford.edu/~aramdas/) and [Cosma Shalizi](https://www.stat.cmu.edu/~cshalizi/).
 
