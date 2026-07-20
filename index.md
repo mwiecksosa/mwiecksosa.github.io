@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
 *Current projects*
 - Invariant causal prediction for multimodal nonstationary time series with transformers: Applications to text sequences and LLMs (with Aaditya Ramdas). 
-- Test-time adaptation under temporal distribution shifts for deep generative dynamic models via random embeddings (with Cosma Shalizi).
+- Test-time adaptation for deep generative dynamic models via random embeddings under possible temporal distribution shifts (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
 - How foundation models learn temporal dependencies in practice: A study of Chronos-2 and TabPFN-3 (with Tom Zhang* and Chad Schafer).
 
