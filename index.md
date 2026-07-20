@@ -24,8 +24,8 @@ My research interests are at the intersection of:
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
 *Current projects*
-- Invariant causal prediction for multimodal nonstationary time series with transformers: Applications to text sequences and LLMs (with Aaditya Ramdas). 
 - Test-time adaptation for deep generative dynamic models under possible temporal distribution shifts via random embeddings (with Cosma Shalizi).
+- Invariant causal prediction for multimodal nonstationary time series with transformers: Applications to text sequences and LLMs (with Aaditya Ramdas). 
 - Simulation-based inference through random features (with Cosma Shalizi).
 - How foundation models learn temporal dependencies in practice: A study of Chronos-2 and TabPFN-3 (with Tom Zhang* and Chad Schafer).
 
