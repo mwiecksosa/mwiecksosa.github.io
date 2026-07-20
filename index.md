@@ -34,5 +34,5 @@ My research interests are at the intersection of:
 **News**
 - December 2026: I'll be giving an invited talk at [CFE-CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/).
 - June 2026: I'll be giving an invited talk at [IWSM 2026](https://dr-baron.github.io/IWSM-2026/IWSM_program.pdf).
-- April 2026: I was awarded the DeGroot-Goel Fellowship for 2026 by the CMU Statistics faculty.
+- April 2026: I was awarded the DeGroot-Goel Fellowship for 2026 by the CMU Statistics & Data Science Department faculty.
 - April 2026: I successfully proposed my thesis.  
