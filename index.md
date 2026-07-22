@@ -19,9 +19,9 @@ My research interests are at the intersection of:
 
 
 *Papers*
-- Estimating dynamic models by matching random features (with Cosma Shalizi). [Preprint](https://mwiecksosa.github.io/estimation_random_features.pdf). [Slides](https://mwiecksosa.github.io/random_features_slides.pdf). [Code](https://github.com/mwiecksosa/random_features). 
-- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). [Preprint](https://arxiv.org/pdf/2607.16035). 
-- Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
+- Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to JASA. [Preprint](https://mwiecksosa.github.io/estimation_random_features.pdf). [Slides](https://mwiecksosa.github.io/random_features_slides.pdf). [Code](https://github.com/mwiecksosa/random_features). 
+- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Submitted to PRE. [Preprint](https://arxiv.org/pdf/2607.16035). 
+- Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). In revision at JBES. [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
 *Current projects*
 - Learning generative models for sequence prediction from heterogeneous environments (with Cosma Shalizi).
