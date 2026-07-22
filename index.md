@@ -27,7 +27,7 @@ My research interests are at the intersection of:
 - Pre-training deep generative models for sequences from heterogeneous environments and probabilistic forecasting at test time (with Cosma Shalizi).
 - Invariant causal prediction for multimodal nonstationary time series with transformers: Applications to text sequences and LLMs (with Aaditya Ramdas). 
 - Simulation-based inference through random features (with Cosma Shalizi).
-- How foundation models learn temporal dependencies in practice: A study of Chronos-2 and TabPFN-3 (with Tom Zhang* and Chad Schafer).
+- How foundation models learn temporal dependencies in practice: A comparative study of Chronos-2, TabPFN-3, and additive models (with Tom Zhang* and Chad Schafer).
 
 \* Denotes students advised.
 
