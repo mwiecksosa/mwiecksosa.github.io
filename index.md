@@ -24,7 +24,7 @@ My research interests are at the intersection of:
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). In revision at the Journal of Business & Economic Statistics. [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
 *Current projects*
-- Learning generative dynamic models (with Cosma Shalizi).
+- Probabilistic forecasting via deep generative dynamic models with theoretical guarantees (with Cosma Shalizi).
 - Evaluating LLM agents under temporal distribution shifts with applications to prediction market forecasts (with Aaditya Ramdas). 
 - Invariant causal prediction for nonstationary nonlinear time series with applications to 2026 midterm prediction markets (with Aaditya Ramdas). 
 - Simulation-based inference through random features (with Cosma Shalizi).
