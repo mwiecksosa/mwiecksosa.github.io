@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
 *Current projects*
 - Learning deep generative models with infinite memory via Knight's prediction process (with Cosma Shalizi).
-- Deep conditional independence testing for multimodal time series with transformers: Applications to news and volatility (with Aaditya Ramdas). 
+- Deep Granger causality for multimodal time series with transformers: Applications to news and volatility (with Aaditya Ramdas). 
 - Invariant causal prediction for nonstationary nonlinear time series with applications to 2026 midterm prediction markets (with Aaditya Ramdas). 
 - Simulation-based inference through random features (with Cosma Shalizi).
 - How foundation models learn temporal dependencies in practice: A comparative study of Chronos-2, TabPFN-3, and additive models (with Tom Zhang* and Chad Schafer).
