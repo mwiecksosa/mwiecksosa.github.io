@@ -10,8 +10,8 @@ Here is my [resume](https://mwiecksosa.github.io/resume.pdf). You can reach me a
 
 My research interests are at the intersection of:
 - **Stochastic processes** (high-dimensional, nonstationary, nonlinear)
-- **Causality** (causal discovery, invariant causal prediction, conditional independence testing)
-- **Machine learning** (neural networks, transformers, foundation models, large language models)
+- **Causality** (causal discovery, invariant prediction, conditional independence testing)
+- **Machine learning** (neural networks, transformers, large language models)
 - **Likelihood-free methods** (estimation, confidence sets, random feature methods)
 
 
