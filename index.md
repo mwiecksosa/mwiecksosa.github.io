@@ -10,10 +10,9 @@ Here is my [resume](https://mwiecksosa.github.io/resume.pdf). You can reach me a
 
 My research interests are at the intersection of:
 - **Stochastic processes** (high-dimensional, nonstationary, nonlinear)
-- **Machine learning** (neural networks, transformers, large language models)
 - **Causality** (invariant prediction, Granger causality, conditional independence testing)
 - **Likelihood-free methods** (estimation, confidence sets, random features)
-
+- **Machine learning** (neural networks, transformers, large language models)
 
 
 **Research**
@@ -25,7 +24,7 @@ My research interests are at the intersection of:
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). Minor revision at the Journal of Business & Economic Statistics. [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
 *Current projects*
-- Long-context transformers via the prediction process (with Cosma Shalizi).
+- Learning generative models with long memory by embedding the prediction process (with Cosma Shalizi).
 - Deep Granger causality testing for multimodal time series with transformers (with Aaditya Ramdas). 
 - Invariant causal prediction for nonstationary nonlinear time series (with Aaditya Ramdas). 
 - Simulation-based inference through random features (with Cosma Shalizi).
