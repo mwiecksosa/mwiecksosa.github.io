@@ -19,7 +19,7 @@ My research interests are at the intersection of:
 
 
 *Papers*
-- Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to the Journal of the American Statistical Association. [Preprint](https://arxiv.org/pdf/2607.21916). [Slides](https://mwiecksosa.github.io/random_features_slides.pdf). [Code](https://github.com/mwiecksosa/random_features). 
+- Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to the Journal of the American Statistical Association. [Preprint](https://arxiv.org/pdf/2607.21916). [Code](https://github.com/mwiecksosa/random_features). 
 - Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Submitted to Physical Review E. [Preprint](https://arxiv.org/pdf/2607.16035). 
 - Conditional independence testing with a single realization of a multivariate nonstationary nonlinear time series (with Michel F. C. Haddad and Aaditya Ramdas). Minor revision at the Journal of Business & Economic Statistics. [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
