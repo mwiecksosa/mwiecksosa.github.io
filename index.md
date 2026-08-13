@@ -26,7 +26,8 @@ My research interests are at the intersection of:
 *Current projects*
 - Learning generative models with recurrent memory by characterizing the future (with Cosma Shalizi). 
 - Invariant causal prediction for nonlinear time series with the higher-order generalized covariance measure (with Aaditya Ramdas). 
-- Simulation-based inference through random features (with Cosma Shalizi).    
+- Simulation-based inference through random features (with Cosma Shalizi).
+- Population infectivity as a driver of disease transmission (with James Hay, Michel F. C. Haddad, Cosma Shalizi, and Aaditya Ramdas).
 - How foundation models learn temporal dependencies in practice (with Tom Zhang* and Chad Schafer).
 
 \* Denotes students advised.
