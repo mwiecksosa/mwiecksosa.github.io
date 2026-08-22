@@ -24,7 +24,7 @@ My research interests are at the intersection of:
 - The dynamic generalized covariance measure for conditional independence testing with nonstationary time series (with Michel F. C. Haddad and Aaditya Ramdas). Minor revision at the Journal of Business & Economic Statistics. [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
 *Current projects*
-- Adaptive deep learning for generative sequence models with low-dimensional structure (with Cosma Shalizi). 
+- Adaptive deep learning for probabilistic sequence models with low-dimensional predictive states (with Cosma Shalizi). 
 - Invariant causal prediction for nonlinear time series with the higher-order generalized covariance measure (with Aaditya Ramdas). 
 - Learning the signature of a large language model (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
