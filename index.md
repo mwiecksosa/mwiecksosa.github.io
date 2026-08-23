@@ -10,7 +10,7 @@ Here is my [resume](https://mwiecksosa.github.io/resume.pdf). You can reach me a
 
 My research interests are at the intersection of:
 - **Dependence** (high-dimensional time series, nonlinear dynamics, time-varying networks)
-- **Causation** (causal discovery, invariant causal prediction, conditional independence testing)
+- **Causality** (causal discovery, invariant causal prediction, conditional independence testing)
 - **Likelihood-free methods** (parameter estimation, uncertainty quantification, goodness-of-fit)
 - **Machine learning** (neural networks, transformers, large language models)
 
