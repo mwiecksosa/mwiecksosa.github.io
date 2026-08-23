@@ -9,10 +9,10 @@ I am very lucky to be advised by [Aaditya Ramdas](https://web.stanford.edu/~aram
 Here is my [resume](https://mwiecksosa.github.io/resume.pdf). You can reach me at mwiecksosa AT cmu DOT edu.
 
 My research interests are at the intersection of:
-- **Stochastic processes** (high-dimensional, nonstationary, nonlinear)
-- **Causality** (invariant prediction, Granger causality, conditional independence testing)
-- **Likelihood-free methods** (estimation, confidence sets, random features)
-- **Machine learning** (neural networks, transformers, large language models)
+- **Machine learning** (neural networks, transformers)
+- **Stochastic processes** (high-dimensional, nonlinear)
+- **Causality** (invariant prediction, conditional independence)
+- **Likelihood-free methods** (estimation, confidence sets)
 
 
 **Research**
