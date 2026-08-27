@@ -12,7 +12,7 @@ My research interests are at the intersection of:
 - **Dependent data** (high-dimensional time series, time-varying networks, language sequences)
 - **Causality** (causal discovery, invariant causal prediction, conditional independence testing)
 - **Likelihood-free methods** (parameter estimation, uncertainty quantification, goodness-of-fit)
-- **Machine learning** (neural networks, transformers, large language models)
+- **Machine learning** (deep neural networks, transformers, large language models)
 
 
 **Research**
