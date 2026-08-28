@@ -9,7 +9,7 @@ I am very lucky to be advised by [Aaditya Ramdas](https://web.stanford.edu/~aram
 Here is my [resume](https://mwiecksosa.github.io/resume.pdf). You can reach me at mwiecksosa AT cmu DOT edu.
 
 My research interests are at the intersection of:
-- **Dependent data** (high-dimensional time series, time-varying networks, language sequences)
+- **Dependent data** (high-dimensional time series, time-varying networks, nonlinear dynamics)
 - **Causality** (causal discovery, invariant causal prediction, conditional independence testing)
 - **Likelihood-free methods** (parameter estimation, uncertainty quantification, goodness-of-fit)
 - **Machine learning** (deep neural networks, transformers, large language models)
