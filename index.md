@@ -19,9 +19,9 @@ My research interests are at the intersection of:
 
 
 *Papers*
-- Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to the Journal of the American Statistical Association. [Preprint](https://arxiv.org/pdf/2607.21916). [Code](https://github.com/mwiecksosa/random_features). 
-- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Submitted to Physical Review E. [Preprint](https://arxiv.org/pdf/2607.16035). 
-- The dynamic generalized covariance measure for conditional independence testing with nonstationary time series (with Michel F. C. Haddad and Aaditya Ramdas). Minor revision at the Journal of Business & Economic Statistics. [Preprint](https://arxiv.org/pdf/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
+- Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to the Journal of the American Statistical Association. [arXiv:2607.21916](https://arxiv.org/abs/2607.21916). [Code](https://github.com/mwiecksosa/random_features). 
+- Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Submitted to Physical Review E. [arXiv:2607.16035](https://arxiv.org/abs/2607.16035). 
+- The dynamic generalized covariance measure for conditional independence testing with nonstationary time series (with Michel F. C. Haddad and Aaditya Ramdas). Minor revision at the Journal of Business & Economic Statistics. [arXiv:2504.21647](https://arxiv.org/abs/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
 *Current projects*
 - Learning generative sequence models with infinite memory (with Cosma Shalizi). 
