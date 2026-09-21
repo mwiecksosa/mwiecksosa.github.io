@@ -9,9 +9,9 @@ I am very lucky to be advised by [Aaditya Ramdas](https://web.stanford.edu/~aram
 Here is my [resume](https://mwiecksosa.github.io/resume.pdf). You can reach me at mwiecksosa AT cmu DOT edu.
 
 My research interests are at the intersection of:
-- **Causality** (causal discovery, invariant causal prediction, conditional independence testing)
-- **Dependence** (high-dimensional time series, time-varying networks, spatiotemporal data)
-- **Machine learning** (deep neural networks, foundation models, large language models)
+- **Causality** (invariant causal prediction, conditional independence testing, causal structure learning, mechanism discovery)
+- **Dependence** (high-dimensional time series, time-varying networks, spatiotemporal data, nonlinear stochastic dynamics)
+- **Machine learning** (deep neural networks, transformers, foundation models, large language models)
 
 
 **Research**
