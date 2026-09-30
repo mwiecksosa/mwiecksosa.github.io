@@ -26,7 +26,7 @@ My research interests are at the intersection of:
   
 *Current projects*
 - Sequential Granger causality and invariant prediction for nonlinear time series (with Aaditya Ramdas).
-- Parallel pretraining of recurrent sequence models with predictive states (with Aaditya Ramdas and Cosma Shalizi).
+- Parallel pretraining of recurrent sequence models through predictive states (with Aaditya Ramdas and Cosma Shalizi).
 - Learning the signature of a large language model (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
 - How foundation models learn temporal dependencies in practice (with Tom Zhang* and Chad Schafer).
