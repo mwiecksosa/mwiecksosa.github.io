@@ -21,11 +21,12 @@ My research interests are at the intersection of:
 - Generative sequence modeling for infinite memory processes via predictive states (with Cosma Shalizi). Submitted to ICLR 2027.
 - Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to the Journal of the American Statistical Association. [arXiv:2607.21916](https://arxiv.org/abs/2607.21916). [Code](https://github.com/mwiecksosa/random_features). 
 - Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Submitted to Physical Review E. [arXiv:2607.16035](https://arxiv.org/abs/2607.16035). [Code](https://github.com/mwiecksosa/random_features). 
-- The dynamic generalized covariance measure for conditional independence testing with nonstationary time series (with Michel F. C. Haddad and Aaditya Ramdas). Minor revision at the Journal of Business & Economic Statistics. [arXiv:2504.21647](https://arxiv.org/abs/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
+- The dynamic generalized covariance measure for conditional independence testing with nonstationary time series (with Michel Haddad and Aaditya Ramdas). Minor revision at the Journal of Business & Economic Statistics. [arXiv:2504.21647](https://arxiv.org/abs/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 
   
 *Current projects*
-- Sequential Granger causality and invariant prediction for nonlinear time series (with Aaditya Ramdas). 
+- Sequential Granger causality and invariant prediction for nonlinear time series (with Aaditya Ramdas).
+- Parallel pretraining of recurrent sequence models with predictive states (with Aaditya Ramdas and Cosma Shalizi).
 - Learning the signature of a large language model (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
 - How foundation models learn temporal dependencies in practice (with Tom Zhang* and Chad Schafer).
