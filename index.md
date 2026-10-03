@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
   
 *Current projects*
-- Parallel pretraining of generative sequence models with recurrence (with Aaditya Ramdas and Cosma Shalizi).
+- Parallel pretraining of generative sequence models with predictive state spaces (with Aaditya Ramdas and Cosma Shalizi).
 - Sequential invariant causal prediction for nonlinear time series (with Aaditya Ramdas).
 - Learning the signature of a large language model (with Cosma Shalizi).
 - Simulation-based inference through random features (with Cosma Shalizi).
