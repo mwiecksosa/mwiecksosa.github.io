@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
   
 *Current projects*
-- Pretraining large generative sequence models with predictive states (with Aaditya Ramdas and Cosma Shalizi).
+- Pretraining large predictive state space models (with Aaditya Ramdas and Cosma Shalizi).
 - Sequential invariant causal prediction for nonlinear time series (with Aaditya Ramdas).
 - Simulation-based inference through random features (with Cosma Shalizi).
 - How foundation models learn temporal dependencies in practice (with Tom Zhang* and Chad Schafer).
