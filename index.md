@@ -25,7 +25,7 @@ My research interests are at the intersection of:
 
   
 *Current projects*
-- Sequential invariance testing with time series (with Aaditya Ramdas).
+- Anytime-valid invariant causal prediction for time series (with Aaditya Ramdas).
 - Pretraining large generative sequence models through predictive states (with Cosma Shalizi).
 - Scalable neural posterior estimation via random features (with Cosma Shalizi).
 - Model confidence sets through random features (with Cosma Shalizi).
