@@ -29,9 +29,7 @@ My research interests are at the intersection of:
 - Pretraining large generative sequence models through predictive states (with Cosma Shalizi).
 - Scalable neural posterior estimation via random features (with Cosma Shalizi).
 - Model confidence sets through random features (with Cosma Shalizi).
-- How foundation models learn temporal dependencies in practice (with Tom Zhang* and Chad Schafer).
 
-\* Denotes students advised.
 
 **News**
 - June 2026: I gave an invited talk at the [9th International Workshop in Sequential Methodologies (IWSM 2026)](https://dr-baron.github.io/IWSM-2026/IWSM_program.pdf).
