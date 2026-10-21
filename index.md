@@ -28,7 +28,7 @@ My research interests are at the intersection of:
 - Anytime-valid invariance testing for nonlinear time series (with Aaditya Ramdas).
 - Pretraining large generative sequence models through predictive states (with Cosma Shalizi).
 - Model-agnostic simulation-based inference (with Cosma Shalizi).
-- Compressed simulation-based inference (with Cosma Shalizi).
+- Compressed neural simulation-based inference (with Cosma Shalizi).
 
 
 
