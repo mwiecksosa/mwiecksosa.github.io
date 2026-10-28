@@ -16,21 +16,22 @@ My research interests are at the intersection of:
 
 **Research**
 
-*Statistics*
-- Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to the Journal of the Royal Statistical Society, Series B. [arXiv:2607.21916](https://arxiv.org/abs/2607.21916). [Code](https://github.com/mwiecksosa/random_features).
+*Statistics journals*
 - The dynamic generalized covariance measure for conditional independence testing with nonstationary time series (with Michel Haddad and Aaditya Ramdas). Accepted for publication in the Journal of Business & Economic Statistics. [arXiv:2504.21647](https://arxiv.org/abs/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
+- Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to the Journal of the Royal Statistical Society, Series B. [arXiv:2607.21916](https://arxiv.org/abs/2607.21916). [Code](https://github.com/mwiecksosa/random_features).
 
-*Machine learning*
+*Machine learning conferences*
 - Generative sequence modeling for infinite memory processes via predictive states (with Cosma Shalizi). Submitted to ICLR 2027. [arXiv:2609.38524](https://arxiv.org/abs/2609.38524).
+- Compressed simulation-based inference: neural posterior estimation for massive data via low-dimensional sketches (with Cosma Shalizi). Available upon request.
 
-*Interdisciplinary*
+*Interdisciplinary journals*
 - Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Major revision at Physical Review E. [arXiv:2607.16035](https://arxiv.org/abs/2607.16035). [Code](https://github.com/mwiecksosa/random_features). 
 
 *Current projects*
 - Anytime-valid invariance testing for nonlinear time series (with Aaditya Ramdas).
-- Model-agnostic simulation-based inference (with Cosma Shalizi).
+- Model-agnostic simulation-based inference (with Aaditya Ramdas and Cosma Shalizi).
 - Pretraining large generative sequence models through predictive states (with Cosma Shalizi).
-- Compressed simulation-based inference: neural posterior estimation for massive data via low-dimensional sketches (with Cosma Shalizi).
+
 
 
 
