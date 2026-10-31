@@ -6,7 +6,7 @@ I am a fourth-year PhD student in [Statistics](https://www.cmu.edu/dietrich/stat
 
 I am very lucky to be advised by [Aaditya Ramdas](https://web.stanford.edu/~aramdas/) and [Cosma Shalizi](https://www.stat.cmu.edu/~cshalizi/).
 
-Here is my [CV](https://mwiecksosa.github.io/cv.pdf). You can reach me at mwiecksosa AT cmu DOT edu.
+Here is my [CV](https://mwiecksosa.github.io/cv.pdf). You can reach me at mwiecksosa AT cmu FULLSTOP edu.
 
 My research interests are at the intersection of:
 - **Causality** (invariant causal prediction, conditional independence testing, causal structure learning, mechanism discovery)
