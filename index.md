@@ -41,5 +41,5 @@ My research interests are at the intersection of:
 - June 2026: I gave an invited talk at the [9th International Workshop in Sequential Methodologies (IWSM 2026)](https://dr-baron.github.io/IWSM-2026/IWSM_program.pdf) at American University.
 - April 2026: I was awarded the DeGroot-Goel Fellowship for 2026 by the CMU Statistics & Data Science Department faculty.
 - April 2026: I successfully proposed my thesis. Topics: generative modeling and dependent data.
-- October 2025: I presented a poster at the [2025 Workshop on Neural SBI](https://www.cmu.edu/dietrich/statistics-datascience/stamps/workshop/workshop-archive/posters-fall25.html) at Carnegie Mellon University.
+- October 2025: I presented a poster at the [2025 Workshop on Neural Simulation-Based Inference](https://www.cmu.edu/dietrich/statistics-datascience/stamps/workshop/workshop-archive/posters-fall25.html) at Carnegie Mellon University.
 - September 2024: I presented a poster at the [2024 NBER-NSF Time Series Conference](https://drive.google.com/file/d/1xaHn0LlmjPAeaHCU8wXiIo2pKTohcC8i/view) at the University of Pennsylvania.
