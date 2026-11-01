@@ -30,7 +30,7 @@ My research interests are at the intersection of:
 *Current projects*
 - Distribution-uniform anytime-valid inference for time series.
 - Anytime-valid invariance testing for time series.
-- Model-agnostic simulation-based inference.
+- Simulation-based inference through random features.
 - Pretraining large predictive state space models.
 
 
