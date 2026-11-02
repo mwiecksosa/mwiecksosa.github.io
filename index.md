@@ -17,7 +17,7 @@
 - **Causality** (invariant causal prediction, conditional independence testing, causal structure learning, mechanism discovery)
 - **Dependence** (high-dimensional time series, time-varying networks, spatiotemporal data, nonlinear stochastic dynamics)
 - **Machine learning** (deep neural networks, transformers, state space models, foundation models, large language models)
-- **Simulation-based inference** (selection, identification, uncertainty quantification, scalability, random feature methods)
+- **Simulation-based inference** (uncertainty quantification, identification, selection, scalability, random feature methods)
 - **Sequential anytime-valid inference** (confidence sequences, strong approximations, beyond martingale dependence)
 
 ## Research
