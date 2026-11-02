@@ -13,7 +13,7 @@
   </div>
 </div>
 
-My research interests are at the intersection of:
+## Interests
 - **Causality** (invariant causal prediction, conditional independence testing, causal structure learning, mechanism discovery)
 - **Dependence** (high-dimensional time series, time-varying networks, spatiotemporal data, nonlinear stochastic dynamics)
 - **Machine learning** (deep neural networks, transformers, state space models, foundation models, large language models)
@@ -21,7 +21,6 @@ My research interests are at the intersection of:
 - **Sequential anytime-valid inference** (confidence sequences, strong approximations, beyond martingale dependence)
 
 ## Research
-
 *Statistics journals*
 - The dynamic generalized covariance measure for conditional independence testing with nonstationary time series (with Michel Haddad and Aaditya Ramdas). Accepted for publication in the Journal of Business & Economic Statistics. [arXiv](https://arxiv.org/abs/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
 - Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to the Journal of the Royal Statistical Society, Series B. [arXiv](https://arxiv.org/abs/2607.21916). [Code](https://github.com/mwiecksosa/random_features).
@@ -38,8 +37,6 @@ My research interests are at the intersection of:
 - Anytime-valid invariance testing for time series (with Aaditya Ramdas).
 - Simulation-based inference through random features (with Cosma Shalizi). 
 - Pretraining large predictive state space models (with Cosma Shalizi). 
-
-
 
 
 ## News
