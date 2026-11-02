@@ -2,7 +2,7 @@
   <img src="/assets/images/WieckSosaMichael_headshot.JPG" alt="Headshot" style="width: 150px; height: auto; flex: 0 0 150px;">
   <div style="flex: 1 1 300px; min-width: 240px;">
     <p style="margin-top: 0;">
-      I am a fourth-year PhD student in <a href="https://www.cmu.edu/dietrich/statistics-datascience/index.html">Statistics</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.
+      I am a fifth-year PhD student in <a href="https://www.cmu.edu/dietrich/statistics-datascience/index.html">Statistics</a> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.
     </p>
     <p>
       I am very lucky to be advised by <a href="https://web.stanford.edu/~aramdas/">Aaditya Ramdas</a> and <a href="https://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a>.
