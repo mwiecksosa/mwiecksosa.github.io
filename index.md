@@ -17,6 +17,7 @@ My research interests are at the intersection of:
 - **Causality** (invariant causal prediction, conditional independence testing, causal structure learning, mechanism discovery)
 - **Dependence** (high-dimensional time series, time-varying networks, spatiotemporal data, nonlinear stochastic dynamics)
 - **Machine learning** (deep neural networks, transformers, foundation models, large language models)
+- **Simulation-based inference** (model selection, misspecification, identification, random features)
 - **Sequential anytime-valid inference** (confidence sequences, strong approximations, beyond martingale dependence)
 
 **Research**
