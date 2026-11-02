@@ -40,9 +40,9 @@
 
 
 ## News
-- October 2026: I'll be attending the [Workshop on Information-Theoretic Methods for Learning Dynamics](https://www.nitmb.org/event/image-based-scientific-machine-learning-for-theories-of-biological-dynamics-across-scales-information-theoretic-methods-for-learning-dynamics/) in February 2027 at the National Institute for Theory and Mathematics in Biology.
-- June 2026: I gave an invited talk at the [9th International Workshop in Sequential Methodologies (IWSM 2026)](https://dr-baron.github.io/IWSM-2026/IWSM_program.pdf) at American University.
-- April 2026: I was awarded the DeGroot-Goel Fellowship for 2026 by the CMU Statistics & Data Science Department faculty.
+- October 2026: During February 8-12, 2027 I'll be attending the [Workshop on Information-Theoretic Methods for Learning Dynamics](https://www.nitmb.org/event/image-based-scientific-machine-learning-for-theories-of-biological-dynamics-across-scales-information-theoretic-methods-for-learning-dynamics/) in the [Program on Image-Based Scientific Machine Learning for Theories of Biological Dynamics Across Scales](https://www.nitmb.org/event/image-based-scientific-machine-learning-for-theories-of-biological-dynamics-across-scales/) at the [NSF-Simons National Institute for Theory and Mathematics in Biology](https://www.nitmb.org/).
+- June 2026: I gave an invited talk at the [9th International Workshop in Sequential Methodologies (IWSM 2026)](https://dr-baron.github.io/IWSM-2026/IWSM_program.pdf) at [American University](https://www.american.edu/).
+- April 2026: I was awarded the [DeGroot-Goel Fellowship](https://www.cmu.edu/dietrich/statistics-datascience/about/awards/index.html) for 2026 by the [CMU Statistics & Data Science Department](https://www.cmu.edu/dietrich/statistics-datascience/index.html) faculty.
 - April 2026: I successfully proposed my thesis. Topics: generative modeling and dependent data.
-- October 2025: I presented a poster at the [2025 Workshop on Neural Simulation-Based Inference](https://www.cmu.edu/dietrich/statistics-datascience/stamps/workshop/workshop-archive/posters-fall25.html) at Carnegie Mellon University.
-- September 2024: I presented a poster at the [2024 NBER-NSF Time Series Conference](https://drive.google.com/file/d/1xaHn0LlmjPAeaHCU8wXiIo2pKTohcC8i/view) at the University of Pennsylvania.
+- October 2025: I presented a poster at the [2025 Workshop on Neural Simulation-Based Inference](https://www.cmu.edu/dietrich/statistics-datascience/stamps/workshop/workshop-archive/posters-fall25.html) at [Carnegie Mellon University](https://www.cmu.edu/).
+- September 2024: I presented a poster at the [2024 NBER-NSF Time Series Conference](https://drive.google.com/file/d/1xaHn0LlmjPAeaHCU8wXiIo2pKTohcC8i/view) at the [University of Pennsylvania](https://www.upenn.edu/).
