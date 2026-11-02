@@ -33,10 +33,10 @@ My research interests are at the intersection of:
 - Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Major revision at Physical Review E. [arXiv](https://arxiv.org/abs/2607.16035). [Code](https://github.com/mwiecksosa/random_features). 
 
 *Current projects*
-- Distribution-uniform anytime-valid inference for time series.
-- Anytime-valid invariance testing for time series.
-- Simulation-based inference through random features.
-- Pretraining large predictive state space models.
+- Distribution-uniform anytime-valid inference for time series (with Aaditya Ramdas).
+- Anytime-valid invariance testing for time series (with Aaditya Ramdas).
+- Simulation-based inference through random features (with Cosma Shalizi). 
+- Pretraining large predictive state space models (with Cosma Shalizi). 
 
 
 
