@@ -20,7 +20,7 @@ My research interests are at the intersection of:
 - **Simulation-based inference** (selection, identification, uncertainty quantification, scalability, random feature methods)
 - **Sequential anytime-valid inference** (confidence sequences, strong approximations, beyond martingale dependence)
 
-**Research**
+## Research
 
 *Statistics journals*
 - The dynamic generalized covariance measure for conditional independence testing with nonstationary time series (with Michel Haddad and Aaditya Ramdas). Accepted for publication in the Journal of Business & Economic Statistics. [arXiv](https://arxiv.org/abs/2504.21647). [Slides](https://mwiecksosa.github.io/dGCM_slides.pdf). [Code](https://github.com/mwiecksosa/dgcm).
@@ -42,7 +42,7 @@ My research interests are at the intersection of:
 
 
 
-**News**
+## News
 - October 2026: I'll be attending the [Workshop on Information-Theoretic Methods for Learning Dynamics](https://www.nitmb.org/event/image-based-scientific-machine-learning-for-theories-of-biological-dynamics-across-scales-information-theoretic-methods-for-learning-dynamics/) in February 2027 at the National Institute for Theory and Mathematics in Biology.
 - June 2026: I gave an invited talk at the [9th International Workshop in Sequential Methodologies (IWSM 2026)](https://dr-baron.github.io/IWSM-2026/IWSM_program.pdf) at American University.
 - April 2026: I was awarded the DeGroot-Goel Fellowship for 2026 by the CMU Statistics & Data Science Department faculty.
