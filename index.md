@@ -33,7 +33,7 @@
 - Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Major revision at Physical Review E. [arXiv](https://arxiv.org/abs/2607.16035). [Code](https://github.com/mwiecksosa/random_features). 
 
 *Current projects*
-- Distribution-uniform anytime-valid inference for time series (with Cosma Shalizi and Aaditya Ramdas).
+- Distribution-uniform anytime-valid inference for high-dimensional time series (with Cosma Shalizi and Aaditya Ramdas).
 - Pretraining large predictive state space models (with Cosma Shalizi and Aaditya Ramdas). 
 - Anytime-valid invariant causal prediction for time series (with Aaditya Ramdas).
 - Simulation-based inference through random features (with Cosma Shalizi). 
