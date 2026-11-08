@@ -34,7 +34,7 @@
 
 *Current projects*
 - Distribution-uniform anytime-valid inference for high-dimensional time series (with Cosma Shalizi and Aaditya Ramdas).
-- Pretraining large predictive state space models (with Cosma Shalizi and Aaditya Ramdas). 
+- Towards language modeling with predictive state space models (with Cosma Shalizi and Aaditya Ramdas). 
 - Anytime-valid invariant causal prediction for time series (with Aaditya Ramdas).
 - Simulation-based inference through random features (with Cosma Shalizi). 
 
