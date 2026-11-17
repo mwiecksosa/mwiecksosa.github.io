@@ -26,8 +26,8 @@
 - Estimating dynamic models by matching random features (with Cosma Shalizi). Submitted to the Journal of the Royal Statistical Society, Series B. [arXiv](https://arxiv.org/abs/2607.21916). [Code](https://github.com/mwiecksosa/random_features).
 
 *Machine learning conferences*
-- Generative sequence modeling for infinite memory processes via predictive states (with Cosma Shalizi). Submitted to ICLR 2027. [arXiv](https://arxiv.org/abs/2609.38524).
-- Compressed simulation-based inference: neural posterior estimation for massive data via low-dimensional sketches (with Cosma Shalizi). Available upon request.
+- Generative sequence modeling for infinite memory processes via predictive states (with Cosma Shalizi). [arXiv](https://arxiv.org/abs/2609.38524).
+- Compressed simulation-based inference: neural posterior estimation for massive data via low-dimensional sketches (with Cosma Shalizi). [arXiv](https://arxiv.org/abs/2611.21286).
 
 *Interdisciplinary journals*
 - Dynamic models with p parameters are identified by 2p+1 random features (with Cosma Shalizi). Major revision at Physical Review E. [arXiv](https://arxiv.org/abs/2607.16035). [Code](https://github.com/mwiecksosa/random_features). 
